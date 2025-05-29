@@ -1,4 +1,4 @@
-GRPC localhost:9999/BillingService/CreateBillingAccount
+GRPC localhost:9001/BillingService/CreateBillingAccount
 Content-Type: application/json
 
 {
